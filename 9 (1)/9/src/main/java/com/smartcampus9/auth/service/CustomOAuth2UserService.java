@@ -27,6 +27,7 @@ public class CustomOAuth2UserService extends DefaultOAuth2UserService {
     private final UserAccountRepository userAccountRepository;
     
     public CustomOAuth2UserService(UserAccountRepository userAccountRepository) {
+        super();
         this.userAccountRepository = userAccountRepository;
     }
     
