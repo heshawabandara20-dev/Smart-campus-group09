@@ -1,0 +1,1 @@
+{\n  "name": "smart-campus-frontend",\n  "version": "0.1.0",\n  "private": true,\n  "type": "module",\n  "scripts": {\n    "dev": "vite",\n    "build": "tsc && vite build",\n    "preview": "vite preview"\n  },\n  "dependencies": {},\n  "devDependencies": {}\n}\n
