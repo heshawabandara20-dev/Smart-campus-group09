@@ -1,0 +1,1 @@
+// auth API placeholder\nexport const login = async () => { return null; };\n
