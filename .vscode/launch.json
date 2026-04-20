@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<9>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.smartcampus9.Application",
+            "projectName": "9",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

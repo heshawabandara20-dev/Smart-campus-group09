@@ -1,0 +1,9 @@
+/* Base styles — imported before pages.css if needed.
+   Most base styles live in pages.css which is the active stylesheet. */
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+}
