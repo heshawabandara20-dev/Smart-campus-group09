@@ -1,0 +1,1 @@
+export const fetchBookings = async () => null;\n

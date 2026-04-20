@@ -1,0 +1,1 @@
+module.exports = {\n  root: true,\n};\n

@@ -1,0 +1,1 @@
+export const fetchResources = async () => null;\n

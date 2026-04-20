@@ -1,0 +1,1 @@
+export const fetchTickets = async () => null;\n
